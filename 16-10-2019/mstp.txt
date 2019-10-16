@@ -1,0 +1,2 @@
+kvsw,mstp,master
+.kvsm
